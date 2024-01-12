@@ -28,9 +28,8 @@ public class GithubAutoGrader {
             String actualString = errorText.substring(startIndex).trim();
 
             findDifference(expectedString, actualString);
-            
-            scanner.nextLine();
         }
+        
         scanner.nextLine();
     }
 
