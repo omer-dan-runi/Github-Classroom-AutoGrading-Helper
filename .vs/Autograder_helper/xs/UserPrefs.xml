@@ -1,17 +1,13 @@
 ﻿<Properties StartupConfiguration="{80B1AEED-C53A-485E-9600-D8FEF58446B7}|Default">
-  <MonoDevelop.Ide.ItemProperties.Autograder__helper PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Autograder_helper/Program.cs">
     <Files>
-      <File FileName="Autograder_helper/Program.cs" Line="1" Column="1" />
+      <File FileName="Autograder_helper/Program.cs" Line="12" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Autograder_helper" expanded="True">
-            <Node name="Autograder_helper" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Autograder_helper" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -20,9 +16,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Autograder__helper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
