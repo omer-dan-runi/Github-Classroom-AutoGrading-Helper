@@ -1,0 +1,15 @@
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/bin/Debug/net6.0/Autograder_helper
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/bin/Debug/net6.0/Autograder_helper.deps.json
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/bin/Debug/net6.0/Autograder_helper.runtimeconfig.json
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/bin/Debug/net6.0/Autograder_helper.dll
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/bin/Debug/net6.0/Autograder_helper.pdb
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/Autograder_helper.csproj.AssemblyReference.cache
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/Autograder_helper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/Autograder_helper.AssemblyInfoInputs.cache
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/Autograder_helper.AssemblyInfo.cs
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/Autograder_helper.csproj.CoreCompileInputs.cache
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/Autograder_helper.dll
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/refint/Autograder_helper.dll
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/Autograder_helper.pdb
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/Autograder_helper.genruntimeconfig.cache
+/Users/omer/Desktop/RUNI/Homework/Year 1/Semester A/Computer Science/Introduction to CS/Github-Classroom-AutoGrading-Helper/Autograder_helper/Autograder_helper/obj/Debug/net6.0/ref/Autograder_helper.dll
