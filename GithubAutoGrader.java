@@ -43,8 +43,8 @@ public class GithubAutoGrader {
 
             for (int j = 0; j < Math.min(expectedWords.length, actualWords.length); j++) {
                 if (!expectedWords[j].equals(actualWords[j])) {
-                    System.out.println("Expected - " + expectedSentences[i] +
-                            "\nActual - " + actualSentences[i] +
+                    System.out.println("Expected   - " + expectedSentences[i] +
+                            "\nActual     - " + actualSentences[i] +
                             "\nDifference - '" + actualWords[j] + "' should have been '" + expectedWords[j] + "'");
 
                     System.out.println();
